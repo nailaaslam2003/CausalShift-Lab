@@ -1,1 +1,1 @@
-Run `python src/run_experiment.py` to generate experiment outputs in this directory. CSV, JSON, and PNG artifacts are ignored by Git to keep the repository clean; commit selected figures or result tables manually if you want to publish a particular run.
+Run `python src/run_experiment.py`
