@@ -1,2 +1,1 @@
-# CausalShift-Lab
-A reproducible machine-learning research framework for concept drift detection, statistical monitoring, and selective prediction under distribution shifts.
+Run `python src/run_experiment.py` to generate experiment outputs in this directory. CSV, JSON, and PNG artifacts are ignored by Git to keep the repository clean; commit selected figures or result tables manually if you want to publish a particular run.
